@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 94c8a5a4-2c8c-4dc3-9bca-e187e819f737
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: kr
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - Get_Minion
+  - Get_PlayerMinion
+  - Get_Minion_RPC
+  - CheckingSpawn
+  - Attack_RPC
+  - MonSetting_RPC
+  - Attack
+  - MonSetting
+  - ChangeTeamColor_RPC
+  - Damaged_RPC
+  - RPC_TimerOut
+  - AttackAnimation_RPC
+  - DeadProcessing
+  - DestroyProcessing_RPC
+  - Damaged_RPC_Minion
+  - Damaged_RPC_Turret
+  - LoadingUpdate_RPC
+  - LoadingEnd_RPC
+  - PlayerReady_RPC
+  - SettingTeam
+  - SettingTeam_RPC
+  - GamingEnd_RPC
+  - GamingReady_RPC
+  - SettingAttackPathEnd_RPC
+  - SettingAttackPathReady_RPC
+  - StartGameReady_RPC
+  - PathNumSetting_RPC
+  - ParentSetting_Pool_RPC
+  - PlayerConnect_RPC
+  - SpawnSetting_RPC
+  - MinionEnable_RPC
+  - SettingTeamAndName_RPC
+  - ChangeRound_AllRemover_RPC
+  - PlayerMinionRemover_RPC
+  - RPC_Chat
+  - DisplayAdd_RPC
+  - ParticleDisable_RPC
+  - ParticleEnable_RPC
+  - AAnim_RPC
+  - ChangeTC_RPC
+  - DamMinion_RPC
+  - DeadP
+  - MS_RPC
+  - ParentSPool_RPC
+  - PlayerC_RPC
+  - SettingTN_RPC
+  - Dam_RPC
+  - Dead_RPC
+  - basicAnim_RPC
+  - DeadAnim
+  - EAnim_RPC
+  - ParentSP_RPC
+  - QAnim_RPC
+  - WeaponTriggerEnable
+  - EAnimE_RPC
+  - EAnim_Pause
+  - Jump_RPC
+  - Getting_RPC
+  - SpawnS_RPC
+  - ItemE_RPC
+  - ItemD_RPC
+  - SkipNumSynch
+  - ReadyCollect
+  - SettingItem
+  - LTU
+  - AttackEB_RPC
+  - AttackEffect_Q
+  - ExpPlus
+  - DeadP_M
+  - GameEP_RPC
+  - PS_s
+  - ResetRPC
+  - E_RPC
+  - Explosion_s
+  - RC_RPC
+  - BasicE
+  - QE
+  - SN_RPC
+  - AddK_RPC
+  - AddD_RPC
+  - AddCS_RPC
+  - Enable_effect
+  - ItemRPC
+  - ReceivePV
+  - AddTD_RPC
+  - D_BT_RPC
+  - Destroy_BT_RPC
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - AttackPath
+  - Turret
+  - Minion
+  - WayPoint
+  - SpawnPoint
+  - Spawner
+  - SubCamera
+  - MapCamera
+  - TeamManager
+  - MiniMapCamera
+  - PlayerMinion
+  - Nexus
+  - Item
+  - DamageArea
+  - Creep
+  - iWall
+  - AimField
+  - wall
+  - FireBall
+  - AlertField
+  - SpellField
+  - ToolTip
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Map
+  - Minion
+  - Icon
+  - DamageArea
+  - Turret
+  - Item
+  - DeadBody
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
