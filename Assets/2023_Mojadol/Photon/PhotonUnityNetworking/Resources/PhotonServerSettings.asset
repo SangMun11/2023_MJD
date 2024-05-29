@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 51d4955d-d549-48e8-a130-2acc02c5edb7
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: 
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - AAnim_RPC
+  - basicAnim_RPC
+  - ChangeRound_AllRemover_RPC
+  - ChangeTC_RPC
+  - ClickRpc
+  - Dam_RPC
+  - Damaged_RPC_Turret
+  - DamMinion_RPC
+  - Dead_RPC
+  - DeadAnim
+  - DeadP
+  - DeadProcessing
+  - DestroyProcessing_RPC
+  - DestroyRpc
+  - DestroySpaceship
+  - DisplayAdd_RPC
+  - EAnim_Pause
+  - EAnim_RPC
+  - EAnimE_RPC
+  - Fire
+  - GamingEnd_RPC
+  - GamingReady_RPC
+  - Getting_RPC
+  - ItemD_RPC
+  - ItemE_RPC
+  - Jump_RPC
+  - LoadingUpdate_RPC
+  - MinionEnable_RPC
+  - MS_RPC
+  - ParentSetting_Pool_RPC
+  - ParentSP_RPC
+  - ParentSPool_RPC
+  - ParticleDisable_RPC
+  - ParticleEnable_RPC
+  - PathNumSetting_RPC
+  - PlayerC_RPC
+  - PlayerMinionRemover_RPC
+  - PlayerReady_RPC
+  - QAnim_RPC
+  - ReadyCollect
+  - RespawnSpaceship
+  - RPC_Chat
+  - RPC_TimerOut
+  - SettingAttackPathEnd_RPC
+  - SettingAttackPathReady_RPC
+  - SettingItem
+  - SettingTN_RPC
+  - SkipNumSynch
+  - SpawnS_RPC
+  - SpawnSetting_RPC
+  - StartGameReady_RPC
+  - WeaponTriggerEnable
+  - AttackEB_RPC
+  - AttackEffect_Q
+  - DeadP_M
+  - ExpPlus
+  - GameEP_RPC
+  - LTU
+  - E_RPC
+  - PS_s
+  - ResetRPC
+  - BasicE
+  - Explosion_s
+  - QE
+  - RC_RPC
+  - SN_RPC
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 0
